@@ -1,0 +1,3 @@
+I look in the fridge to see how many eggs i have. Then i decide if i am hungry. 
+If yes, I cook and eat some eggs. 
+Then I subtract the number of eggs i had with the number of eggs i ate and see how many are left.
